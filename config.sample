@@ -1,0 +1,5 @@
+# Personal tenant
+strTenantID = '5a58d3cd-c850-fd55-lala-4ezdq6pekdc5'
+strGraphAuthURL = 'https://login.microsoftonline.com/5a58d3cd-c850-fd55-lala-4ezdq6pekdc5/oauth2/v2.0/token'
+strClientID = "z439b06d-557a-55df-c850-155fals6oq55"
+strClientSecret = "p!E%c]}9)4w}55{N=ML5d55d2&}0y"
